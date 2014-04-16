@@ -1,4 +1,4 @@
 my-scala-archetype
 ==================
 
-A simple archetype for scala project. Included maven and sbt
+A maven archetype to generate pom and supported sbt for basic scala project
